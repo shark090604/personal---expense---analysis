@@ -1,0 +1,28 @@
+PERSONAL EXPENSE ANALYSIS REPORT
+===================================
+Total Expenses: Rs. 24,053.00
+Average Expense: Rs. 650.08
+Highest Expense: Rs. 1,580.00
+Lowest Expense: Rs. 80.00
+
+CATEGORY-WISE EXPENSES
+Category
+Food             7820
+Shopping         4947
+Bills            4787
+Transport        4150
+Entertainment    1249
+Health           1100
+
+PAYMENT METHOD ANALYSIS
+Payment_Method
+Card     6196
+Cash      910
+UPI     16947
+
+MONTHLY EXPENSES
+Month
+2026-01    7423
+2026-02    8177
+2026-03    8453
+Freq: M

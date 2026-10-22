@@ -1,0 +1,38 @@
+Date,Category,Subcategory,Description,Amount_INR,Payment_Method
+2026-01-02,Food,Groceries,Supermarket,1250,UPI
+2026-01-03,Transport,Bus,Commute,80,Cash
+2026-01-04,Food,Restaurant,Lunch,320,UPI
+2026-01-05,Bills,Mobile,Phone recharge,299,UPI
+2026-01-06,Shopping,Clothing,T-shirt,799,Card
+2026-01-08,Transport,Fuel,Petrol,900,UPI
+2026-01-10,Food,Groceries,Vegetables and staples,640,Cash
+2026-01-12,Entertainment,Movies,Movie ticket,450,Card
+2026-01-15,Health,Pharmacy,Basic supplies,275,UPI
+2026-01-18,Food,Restaurant,Dinner,560,UPI
+2026-01-20,Bills,Electricity,Electricity bill,1180,UPI
+2026-01-22,Transport,Taxi,Ride home,240,UPI
+2026-01-25,Shopping,Household,Cleaning supplies,430,Card
+2026-02-01,Food,Groceries,Monthly groceries,1420,UPI
+2026-02-03,Transport,Bus,Commute,100,Cash
+2026-02-04,Food,Restaurant,Lunch,360,UPI
+2026-02-06,Bills,Internet,Monthly internet,699,UPI
+2026-02-08,Shopping,Clothing,Shirt,1199,Card
+2026-02-10,Transport,Fuel,Petrol,1100,UPI
+2026-02-12,Entertainment,Streaming,Subscription,299,Card
+2026-02-15,Health,Clinic,Consultation,500,UPI
+2026-02-18,Food,Restaurant,Dinner,620,UPI
+2026-02-20,Bills,Electricity,Electricity bill,1050,UPI
+2026-02-22,Transport,Taxi,Ride home,280,UPI
+2026-02-25,Shopping,Household,Kitchen items,550,Card
+2026-03-01,Food,Groceries,Monthly groceries,1580,UPI
+2026-03-03,Transport,Bus,Commute,90,Cash
+2026-03-05,Food,Restaurant,Lunch,390,UPI
+2026-03-07,Bills,Mobile,Phone recharge,299,UPI
+2026-03-09,Shopping,Clothing,Shoes,1499,Card
+2026-03-11,Transport,Fuel,Petrol,1050,UPI
+2026-03-13,Entertainment,Movies,Movie ticket,500,Card
+2026-03-16,Health,Pharmacy,Basic supplies,325,UPI
+2026-03-18,Food,Restaurant,Dinner,680,UPI
+2026-03-20,Bills,Electricity,Electricity bill,1260,UPI
+2026-03-22,Transport,Taxi,Ride home,310,UPI
+2026-03-25,Shopping,Household,Household items,470,Card
