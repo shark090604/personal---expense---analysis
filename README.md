@@ -1,3 +1,4 @@
+
 # Personal Expense Analysis using Python
 
 ## Project Overview
@@ -36,3 +37,6 @@ The dataset contains 37 expense transactions with 6 columns:
 - category_expenses.png
 - payment_expenses.png
 - monthly_expenses.png
+
+# personal---expense---analysis
+Personal expense analysis using python, Pandas and Matplotlib
